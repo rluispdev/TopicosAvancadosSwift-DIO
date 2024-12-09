@@ -151,3 +151,5 @@ struct PersonStruct {
 
 var personStruct = PersonStruct(name: "Pedro", age: 23)
 print("Nome:", personStruct.name, "| Idade:", personStruct.age)
+
+
